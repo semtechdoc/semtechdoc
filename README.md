@@ -1,0 +1,1 @@
+This repository contains the activities of the W3C community group 'Technical Documentation in the Semantic Web', c.f. https://www.w3.org/community/semtechdoc/
